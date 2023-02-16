@@ -1,4 +1,7 @@
+
+
 import './Styles/css/App.css';
+
 import Header from './Components/header';
 import Collapsible from 'react-collapsible';
 import ArrowsImg from './Components/arrows';
